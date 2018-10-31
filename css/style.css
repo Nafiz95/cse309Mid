@@ -1,0 +1,57 @@
+#body
+{
+    background-color: #15233a;
+    width: 100vw;
+    height: 100vh;
+    background-size: 100% 100%;
+}
+h3
+{
+    text-align: center;
+}
+#nav
+{
+   /* background-color: blue;*/
+    width: 20vw;
+    height: 80vh;
+    float: left;
+    margin-top: 5%;
+    margin-left: 5%;
+    overflow-x: hidden;
+    
+    
+}
+#usrop
+{
+    /*background-color: green;*/
+    width: 40vh;
+    height: 55vh;
+    display: block;
+    display: flex;
+    flex-direction: column;
+    overflow:auto;
+}
+#main
+{
+    margin-top: 5%;
+    margin-left: 2%;
+    background-color: red;
+    width: 70vw;
+    height: 70vh;
+    float: left;
+}
+.btn
+{
+    font-weight: bold;
+    margin-bottom: 10%;
+    color: white;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace
+}
+#plan-container
+{
+    /*background-color: yellow;*/
+    width: 24vw;
+    height: 80vh;
+    float: left;
+    
+}
