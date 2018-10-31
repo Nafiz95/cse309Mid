@@ -39,6 +39,7 @@ h3
     width: 70vw;
     height: 70vh;
     float: left;
+    overflow: auto;
 }
 .btn
 {
@@ -49,9 +50,13 @@ h3
 }
 #plan-container
 {
-    /*background-color: yellow;*/
-    width: 24vw;
-    height: 80vh;
+    background-color: yellow;
+    width: 15vw;
+    height:24vh;
     float: left;
+    margin: 10px;
+    padding:10px;
+    border-radius: 32px;
     
 }
+
